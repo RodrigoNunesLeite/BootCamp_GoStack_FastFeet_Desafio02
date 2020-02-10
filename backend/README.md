@@ -75,8 +75,6 @@ and use this profile to generate your token:
 	"password": "123456"
 }
 ```
-
-I recommend using Insomnia to make all requests, the **token** must be used in the **header** or in the **auth** with **bearer token**
-
+During the tests I used **Insomnia** to make all requests. The generated **token** must be used in the **header** or in **authentication with the bearer token**
 
 
